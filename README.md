@@ -1,4 +1,5 @@
 Work: Software Development / IT
+
 School: Working on Computer Science BS
 
 Big fan of computer hardware, software, and progressive metal
