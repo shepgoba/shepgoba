@@ -2,7 +2,7 @@ Work: Software Development / IT
 
 School: Working on Computer Science BS
 
-Big fan of computer hardware, software, and metal
+Big fan of computer hardware, software, and music (mostly prog metal with Opeth, Dream Theater, Haken, Tool)
 
 ## Stats:
 <a href="#stats">
