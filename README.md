@@ -1,4 +1,4 @@
-Work: Software Development
+Work: Full-stack Web Development
 
 Big fan of computer hardware, software, and music (mostly prog metal, Opeth, BTBAM, Dream Theater, Haken, Tool)
 
